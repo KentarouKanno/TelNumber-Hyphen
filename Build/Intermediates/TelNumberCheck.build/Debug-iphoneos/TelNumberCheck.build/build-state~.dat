@@ -1,0 +1,442 @@
+TTelNumberCheck
+v6
+r1
+cCheck dependencies
+cCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist Build/Products/Debug-iphoneos/TelNumberCheck.app/ResourceRules.plist
+cProcessPCH /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/PrecompiledHeaders/TelNumberCheck-Prefix-dvtsmsuslhtjoybmsycqpphclkcn/TelNumberCheck-Prefix.pch.pch TelNumberCheck/TelNumberCheck-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/Objects-normal/arm64/ViewController.o /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/TelNumberCheck/ViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/Objects-normal/arm64/AppDelegate.o /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/TelNumberCheck/AppDelegate.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/Objects-normal/arm64/NSString+TelNumber_Hyphen.o /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/NSString+TelNumber_Hyphen.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/Objects-normal/arm64/main.o /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/TelNumberCheck/main.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Products/Debug-iphoneos/TelNumberCheck.app/TelNumberCheck normal arm64
+cCopyStringsFile /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Products/Debug-iphoneos/TelNumberCheck.app/en.lproj/InfoPlist.strings TelNumberCheck/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/TelNumberCheck/Base.lproj/Main.storyboard
+cCompileAssetCatalog /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Products/Debug-iphoneos/TelNumberCheck.app /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/TelNumberCheck/Images.xcassets
+cProcessInfoPlistFile /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Products/Debug-iphoneos/TelNumberCheck.app/Info.plist /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/TelNumberCheck/TelNumberCheck-Info.plist
+cGenerateDSYMFile /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Products/Debug-iphoneos/TelNumberCheck.app.dSYM /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Products/Debug-iphoneos/TelNumberCheck.app/TelNumberCheck
+cProcessProductPackaging /Users/KentarOu/Library/MobileDevice/Provisioning\ Profiles/301ADBBE-8D51-4E3F-92F8-435CC329092C.mobileprovision /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Products/Debug-iphoneos/TelNumberCheck.app/embedded.mobileprovision
+cTouch /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Products/Debug-iphoneos/TelNumberCheck.app
+cProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/TelNumberCheck.xcent
+cCodeSign /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Products/Debug-iphoneos/TelNumberCheck.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk
+c0000000053497CC60000000000000132
+t1397324998
+s306
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist
+c00000000531F21560000000000000094
+t1394549078
+s148
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist
+c00000000531F21560000000000000096
+t1394549078
+s150
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/SDKSettings.plist
+c00000000531F2156000000000000036B
+t1394549078
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531F2157000000000000019E
+t1394549079
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000053497CA600000000004D7BC0
+t1397324966
+s5077952
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000531F215A0000000000A90C10
+t1394549082
+s11078672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000531F215F0000000002759920
+t1394549087
+s41261344
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000531F21950000000000000ADC
+t1394549141
+s2780
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/PrecompiledHeaders/TelNumberCheck-Prefix-dvtsmsuslhtjoybmsycqpphclkcn/TelNumberCheck-Prefix.pch.pch
+t1399970418
+s111192
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/Objects-normal/arm64/AppDelegate.o
+t1399970418
+s66488
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/Objects-normal/arm64/NSString+TelNumber_Hyphen.o
+t1399970418
+s73268
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/Objects-normal/arm64/TelNumberCheck.LinkFileList
+c000000005371DA7100000000000002C6
+t1399970417
+s710
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/Objects-normal/arm64/ViewController.o
+t1399970418
+s50920
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/Objects-normal/arm64/main.o
+t1399970418
+s4272
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/TelNumberCheck.xcent
+t1399970420
+s420
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/assetcatalog_dependencies.txt
+t1399970420
+s453
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/assetcatalog_generated_info.plist
+t1399970420
+s525
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Products/Debug-iphoneos/TelNumberCheck.app
+t1399970420
+s374
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Products/Debug-iphoneos/TelNumberCheck.app.dSYM
+t2
+s0
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Products/Debug-iphoneos/TelNumberCheck.app/Base.lproj/Main.storyboardc
+t1399970419
+s170
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Products/Debug-iphoneos/TelNumberCheck.app/Info.plist
+t1399970420
+s1312
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Products/Debug-iphoneos/TelNumberCheck.app/PkgInfo
+t1399970420
+s8
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Products/Debug-iphoneos/TelNumberCheck.app/ResourceRules.plist
+t1399970417
+s150
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Products/Debug-iphoneos/TelNumberCheck.app/TelNumberCheck
+t1399970419
+s74032
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Products/Debug-iphoneos/TelNumberCheck.app/embedded.mobileprovision
+t1399970420
+s8043
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Products/Debug-iphoneos/TelNumberCheck.app/en.lproj/InfoPlist.strings
+t1399970419
+s42
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/NSString+TelNumber_Hyphen.m
+c000000005371D4A90000000000001E10
+t1399968937
+s7696
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/TelNumberCheck/AppDelegate.m
+c00000000536FE1A300000000000007DE
+t1399841187
+s2014
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/TelNumberCheck/Base.lproj/Main.storyboard
+c000000005370D94300000000000012A3
+t1399904579
+s4771
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/TelNumberCheck/Images.xcassets
+c00000000536FE1A30000000000000088
+t1399841187
+s136
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/TelNumberCheck/TelNumberCheck-Info.plist
+c00000000536FE1A300000000000004C5
+t1399841187
+s1221
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/TelNumberCheck/TelNumberCheck-Prefix.pch
+c00000000536FE1A30000000000000158
+t1399841187
+s344
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/TelNumberCheck/ViewController.m
+c000000005371DA7100000000000003A4
+t1399970417
+s932
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/TelNumberCheck/en.lproj/InfoPlist.strings
+c00000000536FE1A3000000000000002D
+t1399841187
+s45
+
+N/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/TelNumberCheck/main.m
+c00000000536FE1A30000000000000158
+t1399841187
+s344
+
+N/Users/KentarOu/Library/MobileDevice/Provisioning Profiles/301ADBBE-8D51-4E3F-92F8-435CC329092C.mobileprovision
+c0000000053095E5C0000000000001F6B
+t1393122908
+s8043
+
+CBuild AST from /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/NSString+TelNumber_Hyphen.m
+r0
+
+CBuild AST from /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/TelNumberCheck/AppDelegate.m
+r0
+
+CBuild AST from /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/TelNumberCheck/ViewController.m
+r0
+
+CBuild AST from /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/TelNumberCheck/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies3a3ddff11122b941^b77af2f11122b941^---0#1#1#--18"Check dependencies36"4A14148B-6B02-48E4-BFF0-8209DB50C353-
+
+CCodeSign /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Products/Debug-iphoneos/TelNumberCheck.app
+s421663220.092506
+e421663220.299464
+r1
+xCodeSign
+x/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Products/Debug-iphoneos/TelNumberCheck.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"CodeSign Build/Products/Debug-iphoneos/TelNumberCheck.app57"CodeSign Build/Products/Debug-iphoneos/TelNumberCheck.appc4cf17f41122b941^54aa4cf41122b941^---0#0#1#-19%DVTDocumentLocation2@125"file:///Users/KentarOu/Desktop/Xcode_Project/2014_5%E6%9C%88/TelNumberCheck/Build/Products/Debug-iphoneos/TelNumberCheck.app/0000000000000000^1136"CodeSign Build/Products/Debug-iphoneos/TelNumberCheck.app    cd /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck    export CODESIGN_ALLOCATE=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/codesign_allocate    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    Using code signing identity "iPhone Developer: kanno kentarou (QYGNX6A4B8)" and provisioning profile "iOS Team Provisioning Profile: *" (301ADBBE-8D51-4E3F-92F8-435CC329092C)    /usr/bin/codesign --force --sign C73E70D932EA59AF916B08AD3A2AB63CD72F71C6 --resource-rules=/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Products/Debug-iphoneos/TelNumberCheck.app/ResourceRules.plist --entitlements /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/TelNumberCheck.xcent /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Products/Debug-iphoneos/TelNumberCh36"5A7A2EE2-CAD4-47A3-8AB5-836234A05F5C-
+b51A1F1C4-EE51-492A-8A71-B4A9EEE7F08D
+
+CCompileAssetCatalog /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Products/Debug-iphoneos/TelNumberCheck.app /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/TelNumberCheck/Images.xcassets
+s421663219.149451
+e421663220.056844
+r1
+xCompileAssetCatalog
+x/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Products/Debug-iphoneos/TelNumberCheck.app
+x/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/TelNumberCheck/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Products/Debug-iphoneos/TelNumberCheck.app/LaunchImage-700-568h@2x.png
+o/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Products/Debug-iphoneos/TelNumberCheck.app/Assets.car
+o/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"CompileAssetCatalog Build/Products/Debug-iphoneos/TelNumberCheck.app TelNumberCheck/Images.xcassets99"CompileAssetCatalog Build/Products/Debug-iphoneos/TelNumberCheck.app TelNumberCheck/Images.xcassetsed6226f31122b941^91b512f41122b941^-481"/* com.apple.actool.compilation-results *//Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Products/Debug-iphoneos/TelNumberCheck.app/LaunchImage-700-568h@2x.png/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Products/Debug-iphoneos/TelNumberCheck.app/Assets.car/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@107"file:///Users/KentarOu/Desktop/Xcode_Project/2014_5%E6%9C%88/TelNumberCheck/TelNumberCheck/Images.xcassets/0000000000000000^1217"CompileAssetCatalog Build/Products/Debug-iphoneos/TelNumberCheck.app TelNumberCheck/Images.xcassets    cd /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphoneos --minimum-deployment-target 7.1 --target-device iphone --compress-pngs --compile /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Products/Debug-iphoneos/TelNumberCheck.app /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/TelNumberCheck/Images36"C30AEDFF-3C63-4161-9EEA-FBD0C99B7D5C-
+b51A1F1C4-EE51-492A-8A71-B4A9EEE7F08D
+
+CCompileC Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/Objects-normal/arm64/AppDelegate.o /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/TelNumberCheck/AppDelegate.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421663218.900020
+e421663218.995991
+r1
+xCompileC
+xBuild/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/Objects-normal/arm64/AppDelegate.o
+x/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/TelNumberCheck/AppDelegate.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/TelNumberCheck/AppDelegate.m
+d/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/TelNumberCheck/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/TelNumberCheck/AppDelegate.m218"CompileC Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/Objects-normal/arm64/AppDelegate.o TelNumberCheck/AppDelegate.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler4086e6f21122b941^c5fefef21122b941^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/KentarOu/Desktop/Xcode_Project/2014_5%E6%9C%88/TelNumberCheck/TelNumberCheck/AppDelegate.m0000000000000000^3985"CompileC Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/Objects-normal/arm64/AppDelegate.o TelNumberCheck/AppDelegate.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/KentarOu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/TelNumberCheck-generated-files.hmap -I/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/TelNumberCheck-own-target-headers.hmap -I/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/TelNumberCheck-all-target-headers.hmap -iquote /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/TelNumberCheck-project-headers.hmap -I/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/DerivedSources/arm64 -I/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/DerivedSources -F/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Products/Debug-iphoneos -include /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/PrecompiledHeaders/TelNumberCheck-Prefix-dvtsmsuslhtjoybmsycqpphclkcn/TelNumberCheck-Prefix.pch -MMD -MT dependencies -MF /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/Objects-normal/arm64/AppDelegate.d --serialize-diagnostics /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/Objects-normal/arm64/AppDelegate.dia -c /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/TelNumberCheck/AppDelegate.m -o /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/Objects36"9E7EF43B-31E6-48F6-B0E9-6F28B61A788C-
+b51A1F1C4-EE51-492A-8A71-B4A9EEE7F08D
+
+CCompileC Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/Objects-normal/arm64/NSString+TelNumber_Hyphen.o /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/NSString+TelNumber_Hyphen.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421663218.900539
+e421663218.993244
+r1
+xCompileC
+xBuild/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/Objects-normal/arm64/NSString+TelNumber_Hyphen.o
+x/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/NSString+TelNumber_Hyphen.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/NSString+TelNumber_Hyphen.m
+d/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/NSString+TelNumber_Hyphen.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/NSString+TelNumber_Hyphen.m231"CompileC Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/Objects-normal/arm64/NSString+TelNumber_Hyphen.o NSString+TelNumber_Hyphen.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler10b0e6f21122b941^2443fef21122b941^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/KentarOu/Desktop/Xcode_Project/2014_5%E6%9C%88/TelNumberCheck/NSString+TelNumber_Hyphen.m0000000000000000^4039"CompileC Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/Objects-normal/arm64/NSString+TelNumber_Hyphen.o NSString+TelNumber_Hyphen.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/KentarOu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/TelNumberCheck-generated-files.hmap -I/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/TelNumberCheck-own-target-headers.hmap -I/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/TelNumberCheck-all-target-headers.hmap -iquote /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/TelNumberCheck-project-headers.hmap -I/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/DerivedSources/arm64 -I/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/DerivedSources -F/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Products/Debug-iphoneos -include /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/PrecompiledHeaders/TelNumberCheck-Prefix-dvtsmsuslhtjoybmsycqpphclkcn/TelNumberCheck-Prefix.pch -MMD -MT dependencies -MF /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/Objects-normal/arm64/NSString+TelNumber_Hyphen.d --serialize-diagnostics /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/Objects-normal/arm64/NSString+TelNumber_Hyphen.dia -c /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/NSString+TelNumber_Hyphen.m -o /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/Objects-normal/arm64/36"E418A1C8-E734-4F7C-82DA-F348C612D8B5-
+b51A1F1C4-EE51-492A-8A71-B4A9EEE7F08D
+
+CCompileC Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/Objects-normal/arm64/ViewController.o /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/TelNumberCheck/ViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421663218.899475
+e421663218.995980
+r1
+xCompileC
+xBuild/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/Objects-normal/arm64/ViewController.o
+x/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/TelNumberCheck/ViewController.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/TelNumberCheck/ViewController.m
+d/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/TelNumberCheck/ViewController.h
+d/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/NSString+TelNumber_Hyphen.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/TelNumberCheck/ViewController.m224"CompileC Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/Objects-normal/arm64/ViewController.o TelNumberCheck/ViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler1e6fe6f21122b941^0dfafef21122b941^---0#0#1#-19%DVTDocumentLocation2@107"file:///Users/KentarOu/Desktop/Xcode_Project/2014_5%E6%9C%88/TelNumberCheck/TelNumberCheck/ViewController.m0000000000000000^4003"CompileC Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/Objects-normal/arm64/ViewController.o TelNumberCheck/ViewController.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/KentarOu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/TelNumberCheck-generated-files.hmap -I/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/TelNumberCheck-own-target-headers.hmap -I/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/TelNumberCheck-all-target-headers.hmap -iquote /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/TelNumberCheck-project-headers.hmap -I/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/DerivedSources/arm64 -I/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/DerivedSources -F/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Products/Debug-iphoneos -include /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/PrecompiledHeaders/TelNumberCheck-Prefix-dvtsmsuslhtjoybmsycqpphclkcn/TelNumberCheck-Prefix.pch -MMD -MT dependencies -MF /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/Objects-normal/arm64/ViewController.d --serialize-diagnostics /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/Objects-normal/arm64/ViewController.dia -c /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/TelNumberCheck/ViewController.m -o /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/Objects-no36"F2D1D77A-9C16-4473-AD06-8C33FB5020C8-
+b51A1F1C4-EE51-492A-8A71-B4A9EEE7F08D
+
+CCompileC Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/Objects-normal/arm64/main.o /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/TelNumberCheck/main.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421663218.901423
+e421663218.978151
+r1
+xCompileC
+xBuild/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/Objects-normal/arm64/main.o
+x/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/TelNumberCheck/main.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/TelNumberCheck/main.m
+d/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/TelNumberCheck/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/TelNumberCheck/main.m204"CompileC Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/Objects-normal/arm64/main.o TelNumberCheck/main.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler43e2e6f21122b941^b268faf21122b941^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/KentarOu/Desktop/Xcode_Project/2014_5%E6%9C%88/TelNumberCheck/TelNumberCheck/main.m0000000000000000^3943"CompileC Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/Objects-normal/arm64/main.o TelNumberCheck/main.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/KentarOu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/TelNumberCheck-generated-files.hmap -I/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/TelNumberCheck-own-target-headers.hmap -I/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/TelNumberCheck-all-target-headers.hmap -iquote /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/TelNumberCheck-project-headers.hmap -I/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/DerivedSources/arm64 -I/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/DerivedSources -F/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Products/Debug-iphoneos -include /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/PrecompiledHeaders/TelNumberCheck-Prefix-dvtsmsuslhtjoybmsycqpphclkcn/TelNumberCheck-Prefix.pch -MMD -MT dependencies -MF /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/Objects-normal/arm64/main.d --serialize-diagnostics /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/Objects-normal/arm64/main.dia -c /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/TelNumberCheck/main.m -o /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/36"F6D33AD4-D550-4436-8C3E-E60B8096CBB8-
+b51A1F1C4-EE51-492A-8A71-B4A9EEE7F08D
+
+CCompileStoryboard /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/TelNumberCheck/Base.lproj/Main.storyboard
+s421663219.148921
+e421663219.708834
+r1
+xCompileStoryboard
+x/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/TelNumberCheck/Base.lproj/Main.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"CompileStoryboard TelNumberCheck/Base.lproj/Main.storyboard59"CompileStoryboard TelNumberCheck/Base.lproj/Main.storyboard873426f31122b941^1c78b5f31122b941^---0#0#1#-19%DVTDocumentLocation2@117"file:///Users/KentarOu/Desktop/Xcode_Project/2014_5%E6%9C%88/TelNumberCheck/TelNumberCheck/Base.lproj/Main.storyboard0000000000000000^873"CompileStoryboard TelNumberCheck/Base.lproj/Main.storyboard    cd /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Products/Debug-iphoneos/TelNumberCheck.app/Base.lproj/Main.storyboardc /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/TelNumberCheck/Base.lproj/Main.storyboard36"64689ECA-30C8-427E-B0CD-4743EAB14594-
+b51A1F1C4-EE51-492A-8A71-B4A9EEE7F08D
+
+CCopyStringsFile /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Products/Debug-iphoneos/TelNumberCheck.app/en.lproj/InfoPlist.strings TelNumberCheck/en.lproj/InfoPlist.strings
+s421663219.148452
+e421663219.150901
+r1
+xCopyStringsFile
+x/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Products/Debug-iphoneos/TelNumberCheck.app/en.lproj/InfoPlist.strings
+xTelNumberCheck/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy TelNumberCheck/en.lproj/InfoPlist.strings133"CopyStringsFile Build/Products/Debug-iphoneos/TelNumberCheck.app/en.lproj/InfoPlist.strings TelNumberCheck/en.lproj/InfoPlist.stringsad1426f31122b941^d6e326f31122b941^---0#0#1#-19%DVTDocumentLocation2@117"file:///Users/KentarOu/Desktop/Xcode_Project/2014_5%E6%9C%88/TelNumberCheck/TelNumberCheck/en.lproj/InfoPlist.strings0000000000000000^648"CopyStringsFile Build/Products/Debug-iphoneos/TelNumberCheck.app/en.lproj/InfoPlist.strings TelNumberCheck/en.lproj/InfoPlist.strings    cd /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Products/Debug-iphoneos/TelNumberCheck.app/en.lproj -- TelNumberCheck/en.lproj/InfoPlist.strings36"D160C80F-6E18-4728-B1C4-962BEDE2D09A-
+b51A1F1C4-EE51-492A-8A71-B4A9EEE7F08D
+
+CCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist Build/Products/Debug-iphoneos/TelNumberCheck.app/ResourceRules.plist
+s421663217.937016
+e421663217.938455
+r1
+xCpResource
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist
+xBuild/Products/Debug-iphoneos/TelNumberCheck.app/ResourceRules.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Copy Build/Products/Debug-iphoneos/TelNumberCheck.app/ResourceRules.plist201"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist Build/Products/Debug-iphoneos/TelNumberCheck.app/ResourceRules.plist6ff6eff11122b941^077bf3f11122b941^---0#0#1#-19%DVTDocumentLocation2@144"file:///Users/KentarOu/Desktop/Xcode_Project/2014_5%E6%9C%88/TelNumberCheck/Build/Products/Debug-iphoneos/TelNumberCheck.app/ResourceRules.plist0034cc02deffdf42^806"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist Build/Products/Debug-iphoneos/TelNumberCheck.app/ResourceRules.plist    cd /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Products/Debug-iphoneos/TelNumberCheck.app36"CFDBCB47-35CE-420E-85B5-F94F7D0A42CE-
+b51A1F1C4-EE51-492A-8A71-B4A9EEE7F08D
+
+CGenerateDSYMFile /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Products/Debug-iphoneos/TelNumberCheck.app.dSYM /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Products/Debug-iphoneos/TelNumberCheck.app/TelNumberCheck
+s421663220.061238
+e421663220.082100
+r1
+xGenerateDSYMFile
+x/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Products/Debug-iphoneos/TelNumberCheck.app.dSYM
+x/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Products/Debug-iphoneos/TelNumberCheck.app/TelNumberCheck
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Generate /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Products/Debug-iphoneos/TelNumberCheck.app.dSYM134"GenerateDSYMFile Build/Products/Debug-iphoneos/TelNumberCheck.app.dSYM Build/Products/Debug-iphoneos/TelNumberCheck.app/TelNumberCheck4cc40ff41122b941^ba4a17f41122b941^---0#0#1#-19%DVTDocumentLocation2@129"file:///Users/KentarOu/Desktop/Xcode_Project/2014_5%E6%9C%88/TelNumberCheck/Build/Products/Debug-iphoneos/TelNumberCheck.app.dSYM0034cc02deffdf42^740"GenerateDSYMFile Build/Products/Debug-iphoneos/TelNumberCheck.app.dSYM Build/Products/Debug-iphoneos/TelNumberCheck.app/TelNumberCheck    cd /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Products/Debug-iphoneos/TelNumberCheck.app/TelNumberCheck -o /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Products/Debug-iphoneos/TelNumberCheck.app.dSYM36"76D932FC-AA15-4E5B-9D48-F49A3755EE50-
+b51A1F1C4-EE51-492A-8A71-B4A9EEE7F08D
+
+CLd /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Products/Debug-iphoneos/TelNumberCheck.app/TelNumberCheck normal arm64
+s421663218.996890
+e421663219.147242
+r1
+xLd
+x/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Products/Debug-iphoneos/TelNumberCheck.app/TelNumberCheck
+xnormal
+xarm64
+d/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/Objects-normal/arm64/TelNumberCheck.LinkFileList
+d/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/Objects-normal/arm64/ViewController.o
+d/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/Objects-normal/arm64/AppDelegate.o
+d/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/Objects-normal/arm64/NSString+TelNumber_Hyphen.o
+d/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/Objects-normal/arm64/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libxpc.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection131"Link /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Products/Debug-iphoneos/TelNumberCheck.app/TelNumberCheck79"Ld Build/Products/Debug-iphoneos/TelNumberCheck.app/TelNumberCheck normal arm646343fff21122b941^5ab725f31122b941^---0#0#1#--1472"Ld Build/Products/Debug-iphoneos/TelNumberCheck.app/TelNumberCheck normal arm64    cd /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -L/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Products/Debug-iphoneos -F/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Products/Debug-iphoneos -filelist /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/Objects-normal/arm64/TelNumberCheck.LinkFileList -dead_strip -fobjc-arc -fobjc-link-runtime -miphoneos-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/Objects-normal/arm64/TelNumberCheck_dependency_info.dat -o /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Products/Debug-iphoneos/TelNumberCheck.app/Tel36"6F9A8973-A0ED-4452-B6F6-DE19658D83AD-
+b51A1F1C4-EE51-492A-8A71-B4A9EEE7F08D
+
+CProcessInfoPlistFile /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Products/Debug-iphoneos/TelNumberCheck.app/Info.plist /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/TelNumberCheck/TelNumberCheck-Info.plist
+s421663220.058004
+e421663220.060423
+r1
+xProcessInfoPlistFile
+x/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Products/Debug-iphoneos/TelNumberCheck.app/Info.plist
+x/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/TelNumberCheck/TelNumberCheck-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Process /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/TelNumberCheck/TelNumberCheck-Info.plist121"ProcessInfoPlistFile Build/Products/Debug-iphoneos/TelNumberCheck.app/Info.plist TelNumberCheck/TelNumberCheck-Info.plist45f50ef41122b941^7cba12f41122b941^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/KentarOu/Desktop/Xcode_Project/2014_5%E6%9C%88/TelNumberCheck/TelNumberCheck/TelNumberCheck-Info.plist0000000000000000^1162"ProcessInfoPlistFile Build/Products/Debug-iphoneos/TelNumberCheck.app/Info.plist TelNumberCheck/TelNumberCheck-Info.plist    cd /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/TelNumberCheck/TelNumberCheck-Info.plist -genpkginfo /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Products/Debug-iphoneos/TelNumberCheck.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Products/Debug-iphoneos/TelNumberCheck.app/ResourceRules.plist -additionalcontentfile /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/assetcatalog_generated_info.plist -o /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Products/Debug-iphoneos/TelNumberCheck.app36"F928B19A-5405-4B37-8620-7FC9B63213DA-
+b51A1F1C4-EE51-492A-8A71-B4A9EEE7F08D
+
+CProcessPCH /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/PrecompiledHeaders/TelNumberCheck-Prefix-dvtsmsuslhtjoybmsycqpphclkcn/TelNumberCheck-Prefix.pch.pch TelNumberCheck/TelNumberCheck-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421663217.939326
+e421663218.898776
+r1
+xProcessPCH
+x/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/PrecompiledHeaders/TelNumberCheck-Prefix-dvtsmsuslhtjoybmsycqpphclkcn/TelNumberCheck-Prefix.pch.pch
+xTelNumberCheck/TelNumberCheck-Prefix.pch
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/TelNumberCheck/TelNumberCheck-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Precompile TelNumberCheck/TelNumberCheck-Prefix.pch240"ProcessPCH Build/Intermediates/PrecompiledHeaders/TelNumberCheck-Prefix-dvtsmsuslhtjoybmsycqpphclkcn/TelNumberCheck-Prefix.pch.pch TelNumberCheck/TelNumberCheck-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compilerb490f0f11122b941^4419e6f21122b941^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/KentarOu/Desktop/Xcode_Project/2014_5%E6%9C%88/TelNumberCheck/TelNumberCheck/TelNumberCheck-Prefix.pch0000000000000000^3860"ProcessPCH Build/Intermediates/PrecompiledHeaders/TelNumberCheck-Prefix-dvtsmsuslhtjoybmsycqpphclkcn/TelNumberCheck-Prefix.pch.pch TelNumberCheck/TelNumberCheck-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/KentarOu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/TelNumberCheck-generated-files.hmap -I/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/TelNumberCheck-own-target-headers.hmap -I/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/TelNumberCheck-all-target-headers.hmap -iquote /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/TelNumberCheck-project-headers.hmap -I/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/DerivedSources/arm64 -I/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/DerivedSources -F/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Products/Debug-iphoneos --serialize-diagnostics /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/PrecompiledHeaders/TelNumberCheck-Prefix-dvtsmsuslhtjoybmsycqpphclkcn/TelNumberCheck-Prefix.pch.dia -MMD -MT dependencies -MF /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/PrecompiledHeaders/TelNumberCheck-Prefix-dvtsmsuslhtjoybmsycqpphclkcn/TelNumberCheck-Prefix.pch.d -c /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/TelNumberCheck/TelNumberCheck-Prefix.pch -o /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/PrecompiledHeaders/TelNumberCheck-Prefix-dvtsmsuslhtjoybmsycqpphclkcn/TelN36"E470394B-EC9A-4945-B952-3E08EE8AF959-
+b51A1F1C4-EE51-492A-8A71-B4A9EEE7F08D
+
+CProcessPCH /Users/KentarOu/Library/Developer/Xcode/DerivedData/TelNumberCheck-cqlvtnchzugxpacuhaznjycqnhbw/Index/PrecompiledHeaders/TelNumberCheck-Prefix-hleglydurkopxxdqsqobpihrsqyx_ast/TelNumberCheck-Prefix.pch.pch TelNumberCheck/TelNumberCheck-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/TelNumberCheck.xcent
+s421663220.085709
+e421663220.091943
+r1
+xProcessProductPackaging
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist
+x/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/TelNumberCheck.xcent
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection242"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/TelNumberCheck.xcent242"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/TelNumberCheck.xcent150116f41122b941^96ce17f41122b941^---0#0#1#-19%DVTDocumentLocation2@173"file:///Users/KentarOu/Desktop/Xcode_Project/2014_5%E6%9C%88/TelNumberCheck/Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/TelNumberCheck.xcent0034cc02deffdf42^848"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/TelNumberCheck.xcent    cd /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist -entitlements -format xml -o /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Intermediates/TelNumberCheck.build/Debug-iphoneos/TelNumberCheck.build/TelNumberCheck.xcent36"84DEC2BE-3DC7-4545-8A3F-5D34429E9A6D-
+b51A1F1C4-EE51-492A-8A71-B4A9EEE7F08D
+
+CProcessProductPackaging /Users/KentarOu/Library/MobileDevice/Provisioning\ Profiles/301ADBBE-8D51-4E3F-92F8-435CC329092C.mobileprovision /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Products/Debug-iphoneos/TelNumberCheck.app/embedded.mobileprovision
+s421663220.082645
+e421663220.084834
+r1
+xProcessProductPackaging
+x/Users/KentarOu/Library/MobileDevice/Provisioning Profiles/301ADBBE-8D51-4E3F-92F8-435CC329092C.mobileprovision
+x/Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Products/Debug-iphoneos/TelNumberCheck.app/embedded.mobileprovision
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection210"ProcessProductPackaging /Users/KentarOu/Library/MobileDevice/Provisioning\ Profiles/301ADBBE-8D51-4E3F-92F8-435CC329092C.mobileprovision Build/Products/Debug-iphoneos/TelNumberCheck.app/embedded.mobileprovision210"ProcessProductPackaging /Users/KentarOu/Library/MobileDevice/Provisioning\ Profiles/301ADBBE-8D51-4E3F-92F8-435CC329092C.mobileprovision Build/Products/Debug-iphoneos/TelNumberCheck.app/embedded.mobileprovision823a15f41122b941^834f17f41122b941^---0#0#1#-19%DVTDocumentLocation2@149"file:///Users/KentarOu/Desktop/Xcode_Project/2014_5%E6%9C%88/TelNumberCheck/Build/Products/Debug-iphoneos/TelNumberCheck.app/embedded.mobileprovision0034cc02deffdf42^758"ProcessProductPackaging /Users/KentarOu/Library/MobileDevice/Provisioning\ Profiles/301ADBBE-8D51-4E3F-92F8-435CC329092C.mobileprovision Build/Products/Debug-iphoneos/TelNumberCheck.app/embedded.mobileprovision    cd /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Users/KentarOu/Library/MobileDevice/Provisioning\ Profiles/301ADBBE-8D51-4E3F-92F8-435CC329092C.mobileprovision -o /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Products/Debug-iphoneos/TelNumberCheck.app/embedded.mobileprovision36"00F54234-6C8F-4CF4-88A7-0821B34EC835-
+b51A1F1C4-EE51-492A-8A71-B4A9EEE7F08D
+
+CTouch /Users/KentarOu/Desktop/Xcode_Project/2014_5月/TelNumberCheck/Build/Products/Debug-iphoneos/TelNumberCheck.app
+r0
+
